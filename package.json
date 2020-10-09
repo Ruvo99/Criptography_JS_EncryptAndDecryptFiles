@@ -1,0 +1,17 @@
+{
+  "name": "actividad12_cifradopc",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt files on PC documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptography"
+  ],
+  "author": "Miguel Ruvalcaba",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
